@@ -3,7 +3,7 @@
 <img alt="image header" src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/imgs/header.png"> 
 <h2 id="️-my-skills">⚙️ My skills</h2>
 
-<img src="ttps://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
 
 <h2 id="-github-stats"><img src="https://raw.githubusercontent.com/manulecoqu/manulecoqu/main/gifs/haha.gif" width="25px"> Github stats</h2>
 <p align="center">
