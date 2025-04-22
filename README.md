@@ -31,4 +31,4 @@ Me Contacter :
 
 ![GHstats](https://github-readme-stats.vercel.app/api?username=manulecoqu&show_icons=true)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manulecoqu)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manulecoqu&layout=donut-vertical)](https://github.com/manulecoqu/github-readme-stats)
