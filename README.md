@@ -11,9 +11,9 @@
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&amp;style=for-the-badge&amp;logo=git&amp;logoColor=white&amp;Color=c95410" alt="Git">
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;color=283238" alt="GitHub">
 <img src="https://img.shields.io/badge/Arch%20Linux-0B2541?style=for-the-badge&amp;logo=arch-linux&amp;logoColor=white" alt="Arch"></p>
-<h2 id="-github-stats"><img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/haha.gif" width="25px"> Github stats</h2>
+<h2 id="-github-stats"><img src="https://raw.githubusercontent.com/manulecoqu/manulecoqu/main/gifs/haha.gif" width="25px"> Github stats</h2>
 <p align="center">
-    <img alt="status github, commits, etc..." width="500px" src="https://github-readme-stats.vercel.app/api?username=marcos-inja&amp;count_private=true&amp;show_icons=true&amp;custom_title=Github&amp;theme=algolia&amp;bg_color=0,000000,130F40&amp;layout=compact&amp;border_radius=8"> <br>
+    <img alt="status github, commits, etc..." width="500px" src="https://github-readme-stats.vercel.app/api?username=manulecoqu&amp;count_private=true&amp;show_icons=true&amp;custom_title=Github&amp;theme=algolia&amp;bg_color=0,000000,130F40&amp;layout=compact&amp;border_radius=8"> <br>
     <img alt="langages les plus utilisés" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manulecoqu&amp;count_private=true&amp;theme=algolia&amp;bg_color=0,000000,130F40&amp;layout=compact&amp;border_radius=8&amp;langs_count=20&amp;hide=hack,swift,kotlin,objective-c">
 </p>
 <h2 id="contact-me">Contact me</h2>
