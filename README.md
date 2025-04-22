@@ -19,7 +19,7 @@ Technologies
 Me Contacter :
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <a href="https://www.linkedin.com/in/votre-profil/" style="margin-bottom: 10px;">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-plain.svg" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-plain.svg" width="35"/>
           
   </a>
   <a href="https://twitter.com/votre-profil" style="margin-bottom: 10px;">
