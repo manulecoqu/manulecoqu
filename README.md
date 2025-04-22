@@ -14,7 +14,7 @@
 <h2 id="-github-stats"><img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/haha.gif" width="25px"> Github stats</h2>
 <p align="center">
     <img alt="status github, commits, etc..." width="500px" src="https://github-readme-stats.vercel.app/api?username=marcos-inja&amp;count_private=true&amp;show_icons=true&amp;custom_title=Github&amp;theme=algolia&amp;bg_color=0,000000,130F40&amp;layout=compact&amp;border_radius=8"> <br>
-    <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-inja&amp;count_private=true&amp;theme=algolia&amp;bg_color=0,000000,130F40&amp;layout=compact&amp;border_radius=8&amp;langs_count=20&amp;hide=hack,swift,kotlin,objective-c">
+    <img alt="langages les plus utilisés" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manulecoqu&amp;count_private=true&amp;theme=algolia&amp;bg_color=0,000000,130F40&amp;layout=compact&amp;border_radius=8&amp;langs_count=20&amp;hide=hack,swift,kotlin,objective-c">
 </p>
 <h2 id="contact-me">Contact me</h2>
 <a href="lezouj48@gmail.com-">
