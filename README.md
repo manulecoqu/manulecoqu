@@ -17,9 +17,9 @@
     <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-inja&amp;count_private=true&amp;theme=algolia&amp;bg_color=0,000000,130F40&amp;layout=compact&amp;border_radius=8&amp;langs_count=20&amp;hide=hack,swift,kotlin,objective-c">
 </p>
 <h2 id="contact-me">Contact me</h2>
-<a href="mailto:marcosvaas@gmail.com-">
-<img alt="eMail" src="https://img.shields.io/badge/marcosvaas@gmail.com-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white">
+<a href="lezouj48@gmail.com-">
+<img alt="eMail" src="https://img.shields.io/badge/lezouj48@gmail.com-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white">
 </a>
 <hr>
-<p>Credits: <a href="https://github.com/marcos-inja">marcos-inja</a></p>
-<p>Last Edited on: 26/10/2021</p> 
+
+
