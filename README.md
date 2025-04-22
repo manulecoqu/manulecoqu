@@ -16,10 +16,19 @@
     <img alt="status github, commits, etc..." width="500px" src="https://github-readme-stats.vercel.app/api?username=manulecoqu&amp;count_private=true&amp;show_icons=true&amp;custom_title=Github&amp;theme=algolia&amp;bg_color=0,000000,130F40&amp;layout=compact&amp;border_radius=8"> <br>
     <img alt="langages les plus utilisés" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manulecoqu&amp;count_private=true&amp;theme=algolia&amp;bg_color=0,000000,130F40&amp;layout=compact&amp;border_radius=8&amp;langs_count=20&amp;hide=hack,swift,kotlin,objective-c">
 </p>
-<h2 id="contact-me">Contact me</h2>
-<a href="lezouj48@gmail.com-">
-<img alt="eMail" src="https://img.shields.io/badge/lezouj48@gmail.com-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white">
+
+<h2 id="️-my-skills">Me Contacter :</h2>
+
+<br>
+
+<div style="display: flex; flex-direction: column; align-items: flex-start;">
+  <a href="https://web.facebook.com/jean.manuel.562114/" style="margin-bottom: 10px;">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-plain.svg" width="35"/>
+          
+  </a>
+  <a href="https://www.linkedin.com/in/mamb%C3%A9-jean-manuel-lezou-b77940204/" style="margin-bottom: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="35"/>
+          
 </a>
-<hr>
 
-
+</div>
