@@ -17,8 +17,18 @@ Technologies
 
 
 Me Contacter :
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg "width="50"")](https://www.linkedin.com/in/votre-profil/)
-[![Twitter](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg)](https://twitter.com/votre-profil)
-[![Portfolio](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/wordpress.svg)](https://votre-site.com)
+<div style="display: flex; flex-direction: column; align-items: flex-start;">
+  <a href="
+
+https://www.linkedin.com/in/votre-profil/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40"/>
+  </a>
+  <a href="https://twitter.com/votre-profil">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="Twitter" width="40"/>
+  </a>
+  <a href="https://votre-site.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/wordpress.svg" alt="Portfolio" width="40"/>
+  </a>
+</div>
 
 ![GHstats](https://github-readme-stats.vercel.app/api?username=manulecoqu&show_icons=true)
