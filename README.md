@@ -30,3 +30,5 @@ Me Contacter :
 </div>
 
 ![GHstats](https://github-readme-stats.vercel.app/api?username=manulecoqu&show_icons=true)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manulecoqu)](https://github.com/manulecoqu/github-readme-stats)
