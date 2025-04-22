@@ -12,4 +12,6 @@ Technologies
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python Logo" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" alt="Drf Logo" width="50"/>
 </div>
-          
+
+
+![GHstats](https:github-readme-stats.vercel.app/api?username=manulecoqushow_icons=true)
