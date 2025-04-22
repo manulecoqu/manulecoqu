@@ -22,7 +22,7 @@ Me Contacter :
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-plain.svg" width="35"/>
           
   </a>
-  <a href="www.linkedin.com/in/mambé-jean-manuel-lezou-b77940204" style="margin-bottom: 10px;">
+  <a href="https://www.linkedin.com/in/mamb%C3%A9-jean-manuel-lezou-b77940204/" style="margin-bottom: 10px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="35"/>
           
           
