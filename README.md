@@ -1,5 +1,5 @@
-  <h1 id="hi--im-marcos"><p align="center">Hi <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/hi.gif" width="35px">, I’m Marcos!</p></h1>
-<p><strong>Welcome to my profile!</strong></p>
+  <h1 id="thongiga"><p align="center">Hi <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/hi.gif" width="35px">, Je suis Manulecoqu</p></h1>
+<p><strong>Bienvenue sur mon profil!</strong></p>
 <img alt="image header" src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/imgs/header.png"> 
 <h2 id="️-my-skills">⚙️ My skills</h2>
 <p><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&amp;style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
