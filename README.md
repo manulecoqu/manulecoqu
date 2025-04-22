@@ -18,14 +18,14 @@ Technologies
 
 Me Contacter :
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
-  <a href="https://www.linkedin.com/in/votre-profil/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" color="white"/>
+  <a href="https://www.linkedin.com/in/votre-profil/" style="margin-bottom: 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg#color=FFFFFF" alt="LinkedIn" width="40"/>
   </a>
-  <a href="https://twitter.com/votre-profil">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="Twitter" width="40"/>
+  <a href="https://twitter.com/votre-profil" style="margin-bottom: 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg#color=FFFFFF" alt="Twitter" width="40"/>
   </a>
-  <a href="https://votre-site.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/wordpress.svg" alt="Portfolio" width="40"/>
+  <a href="https://votre-site.com" style="margin-bottom: 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/wordpress.svg#color=FFFFFF" alt="Portfolio" width="40"/>
   </a>
 </div>
 
