@@ -17,7 +17,7 @@ Technologies
 
 
 Me Contacter :
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg)](https://www.linkedin.com/in/votre-profil/)
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg "width="50"")](https://www.linkedin.com/in/votre-profil/)
 [![Twitter](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg)](https://twitter.com/votre-profil)
 [![Portfolio](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/wordpress.svg)](https://votre-site.com)
 
