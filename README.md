@@ -1,7 +1,5 @@
-je suis jean manuel lezou 
-thongiga , manulecoqu
-tres passionné par le developpeur mobile je code en flutter et java natif .
-j'apprends actuellement le python et drf pour devenir un developpeur fullstack 
+Je suis **Jean Manuel Lezou** (Thongiga, manulecoqu), un développeur passionné par le **développement mobile** et en chemin pour devenir **fullstack**.  
+J'adore coder des applications mobiles fluides avec **Flutter** et **Java natif**, et j'apprends actuellement **Python** et **Django REST Framework (DRF)** pour créer des backends robustes. Mes projets incluent des applications de gestion de tickets avec appels API et intégration TTS, et je m'efforce toujours de livrer des interfaces modernes et performantes.
 
 
 Technologies
