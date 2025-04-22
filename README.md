@@ -18,10 +18,8 @@ Technologies
 
 Me Contacter :
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
-  <a href="
-
-https://www.linkedin.com/in/votre-profil/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40"/>
+  <a href="https://www.linkedin.com/in/votre-profil/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" color="white"/>
   </a>
   <a href="https://twitter.com/votre-profil">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="Twitter" width="40"/>
