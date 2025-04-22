@@ -18,16 +18,15 @@ Technologies
 
 Me Contacter :
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
-  <a href="https://www.linkedin.com/in/votre-profil/" style="margin-bottom: 10px;">
+  <a href="https://web.facebook.com/jean.manuel.562114/" style="margin-bottom: 10px;">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-plain.svg" width="35"/>
           
   </a>
-  <a href="https://twitter.com/votre-profil" style="margin-bottom: 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg#color=FFFFFF" alt="Twitter" width="40"/>
+  <a href="www.linkedin.com/in/mambé-jean-manuel-lezou-b77940204" style="margin-bottom: 10px;">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="35"/>
+          
   </a>
-  <a href="https://votre-site.com" style="margin-bottom: 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/wordpress.svg#color=FFFFFF" alt="Portfolio" width="40"/>
-  </a>
+  
 </div>
 
 ![GHstats](https://github-readme-stats.vercel.app/api?username=manulecoqu&show_icons=true)
